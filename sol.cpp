@@ -4,7 +4,7 @@ using namespace std;
 /*
 
 b[i] = (a[i] + a[i+1]) % 2, where 1 <= i < N
-b[n] = (a[n] + a[1]) % 2
+b[N] = (a[N] + a[1]) % 2
 
 ----------------------------
 
